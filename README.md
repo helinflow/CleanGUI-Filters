@@ -1,42 +1,44 @@
 # CleanGUI Filters
 
-Uma coleção de regras de bloqueio para remover elementos desnecessários da interface (GUI) durante a navegação, proporcionando uma experiência mais limpa e focada.
+Uma coleção de filtros cosméticos para remover elementos desnecessários das interfaces de sites, deixando a navegação mais limpa e focada.
 
-## 📌 Sobre o projeto
+## Objetivo
 
-O **CleanGUI Filters** é um conjunto de sintaxes de bloqueio desenvolvidas para melhorar a experiência do usuário em navegadores compatíveis com filtros de conteúdo.
+O CleanGUI Filters remove distrações visuais, como:
 
-O projeto remove elementos visuais que podem atrapalhar a navegação, como:
+- Banners promocionais e ofertas Premium.
+- Avisos para instalar aplicativos.
+- Pop-ups e chamadas para abrir o aplicativo.
+- Elementos repetitivos ou que ocupam espaço sem necessidade.
 
-- 🛒 Compras e recursos Premium.
-- 📱 Avisos para baixar aplicativos.
-- 🎯 Banners promocionais.
-- 🪟 Pop-ups e caixas desnecessárias.
-- Outros elementos de interface que prejudicam a navegação.
+## Compatibilidade
 
-## 🎯 Objetivo
+As regras usam sintaxe de filtros cosméticos no estilo Adblock/uBlock, compatível com o suporte a filtros personalizados do Brave Shields e outros navegadores baseados em Chromium que aceitem esse formato.
 
-Criar uma navegação mais simples, limpa e livre de distrações, permitindo que o usuário tenha mais foco no conteúdo principal.
+**Arquivo principal:** [cleangui-filters.txt](cleangui-filters.txt)
 
-## 🔄 Atualizações
+## Como usar no Brave
 
-Este repositório está em desenvolvimento contínuo e recebe novas regras de bloqueio regularmente para melhorar a compatibilidade e eficiência.
+1. Abra as configurações do Brave.
+2. Entre em **Shields** e procure **Filtros de conteúdo**.
+3. Abra a área de filtros personalizados.
+4. Cole o conteúdo de `cleangui-filters.txt` ou adicione a lista quando houver uma URL pública de assinatura.
 
-## 🌐 Compatibilidade
+A disponibilidade e o nome exato das opções podem variar conforme a versão do Brave.
 
-As regras são compatíveis com navegadores que utilizam filtros de bloqueio de conteúdo, incluindo:
+## Boas práticas
 
-- Brave Browser.
-- Navegadores baseados em Chromium com suporte a filtros personalizados.
+- As regras são cosméticas: escondem elementos da página; não bloqueiam necessariamente requisições de rede ou anúncios em vídeo.
+- Seletores baseados em classes geradas podem deixar de funcionar quando o site atualiza a interface.
+- Revise os filtros após atualizações dos sites para evitar ocultar controles úteis.
+- Novas regras devem ser adicionadas sem apagar as regras existentes.
 
-## 🤝 Contribuição
+## Contribuição
 
-Sugestões, melhorias e relatos de elementos que ainda precisam ser bloqueados são bem-vindos.
+Sugestões, melhorias e relatos de filtros que escondem conteúdo útil são bem-vindos.
 
-## 📄 Licença
+## Licença
 
-Este projeto está licenciado sob a licença **Apache License 2.0**.
+Este projeto está licenciado sob a **MIT License**. Consulte [LICENSE](LICENSE).
 
-Consulte o arquivo [LICENSE](LICENSE) para mais informações.
-
-Copyright © 2026 CleanGUI Filters
+Copyright © 2026 CleanGUI Filters.
