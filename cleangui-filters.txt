@@ -1,50 +1,117 @@
-www.reddit.com###configured-xpromo-mweb3x_mid_funnel_blocking_v2_ml_30s > .bg-transparent
-www.reddit.com###configured-xpromo-mweb3x_mid_funnel_blocking_v2_ml_30s
-www.reddit.com###open-app-header-cta
-music.youtube.com##.app-install-link.app-bar-button.style-scope.ytmusic-nav-bar
-music.youtube.com##div.style-scope.ytmusic-guide-renderer:nth-of-type(2) > ytmusic-guide-section-renderer.style-scope.ytmusic-guide-renderer:nth-of-type(1) > .scroller.scroller-on-hover.style-scope.ytmusic-guide-section-renderer > ytmusic-guide-entry-renderer.style-scope.ytmusic-guide-section-renderer:nth-of-type(4) > tp-yt-paper-item.style-scope.ytmusic-guide-entry-renderer
-chatgpt.com##.button-glimmer-cta.relative.flex.items-center.gap-1.rounded-full.bg-transparent.ps-2\.5.whitespace-nowrap.text-current.focus\:outline-none.pe-3.h-\[34px\].gap-\[3px\]\!.rounded-lg\!.border.border-transparent.border-solid.px-3\!.hover\:border-blue-400\/\[\.01\].hover\:bg-blue-400\/\[\.09\].hover\:backdrop-blur-\[38\.571px\].keyboard-focused\:border-blue-400\/\[\.01\].keyboard-focused\:bg-blue-400\/\[\.09\].keyboard-focused\:backdrop-blur-\[38\.571px\].dark\:hover\:bg-blue-100\/20.dark\:keyboard-focused\:bg-blue-100\/20
+! CleanGUI Filters — Brave / Chromium
+! Filtros cosméticos organizados por domínio.
+! Regras antigas preservadas; regras novas incorporadas e duplicatas exatas consolidadas.
+! Compatibilidade depende do suporte do navegador à sintaxe cosmética.
+! Revise seletores após atualizações dos sites: classes e IDs podem mudar.
+
+! ===== br.pinterest.com =====
+br.pinterest.com##.G0yGFD.ap8aAM.Q3hcOU.j0pMjI.E6J5D_.CNPSpi.O0u6sV
+
+! ===== character.ai =====
+character.ai##.\@container.overflow-hidden.size-full.flex.justify-center.items-center.max-w-\[970px\].mx-auto
+character.ai##.fixed.left-1\/2.-translate-x-1\/2.w-full.flex.justify-center.items-center.bg-\[var\(--G50\)\].border-b.border-gray-200.\[box-shadow\:0_4px_6px_-1px_rgb\(0\,0\,0\,0\.1\)\,0_2px_4px_-2px_rgb\(0\,0\,0\,0\.1\)\].transition-transform.duration-1000.ease-\[cubic-bezier\(0\.4\,0\,0\.2\,1\)\].top-0.sm\:rounded-bl-\[5px\].sm\:rounded-br-\[5px\].z-40
+character.ai##.flex.flex-col.gap-3.py-3
+character.ai##.flex.flex-col.pt-3.pb-3
+character.ai##.pl-2.md\:pl-0.mt-2.space-y-4 > div:nth-of-type(1)
+character.ai##.pl-2.md\:pl-0.mt-2.space-y-4 > div:nth-of-type(10)
+character.ai##.pl-2.md\:pl-0.mt-2.space-y-4 > div:nth-of-type(3)
+character.ai##.pl-2.md\:pl-0.mt-2.space-y-4 > div:nth-of-type(4)
+character.ai##.size-full.min-h-\[90px\].text-\[16px\].flex.items-center.cursor-pointer.select-none.px-3.\@xl\:px-5.\@3xl\:px-8.leading-\[1\.1\].transition-colors.duration-300.bg-\[\#0000FF\].text-white.justify-between.h-\[90px\].\@xl\:text-\[18px\].\@3xl\:text-\[20px\].gap-3.\@3xl\:gap-6
+character.ai##button.text-white
+
+! ===== chat.deepseek.com =====
+chat.deepseek.com##.ds-button.ds-button--outlinedNeutral.ds-button--outlined.ds-button--capsule.ds-button--m.ds-button--icon-relative-m.ds-button--min-width.ad8d4bfc
+chat.deepseek.com##.ds-button.ds-button--outlinedNeutral.ds-button--outlined.ds-button--capsule.ds-button--m.ds-button--icon-relative-m.ds-button--min-width.ad8d4bfc > .ds-button__background
+
+! ===== chat.qwen.ai =====
+chat.qwen.ai##.qwen-auth-share-logo
+chat.qwen.ai##.satisfaction-rating.satisfaction-rating-mobile
+chat.qwen.ai##.share-logo-content
+
+! ===== chatgpt.com =====
 chatgpt.com##.btn.border-token-interactive-border-secondary-default.bg-token-bg-primary.hover\:bg-token-interactive-bg-secondary-hover.h-8.w-full.gap-0.px-4.text-xs.font-medium
-m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+chatgpt.com##.button-glimmer-cta.relative.flex.items-center.gap-1.rounded-full.bg-transparent.ps-2\.5.whitespace-nowrap.text-current.focus\:outline-none.pe-3.h-\[34px\].gap-\[3px\]\!.rounded-lg\!.border.border-transparent.border-solid.px-3\!.hover\:border-blue-400\/\[\.01\].hover\:bg-blue-400\/\[\.09\].hover\:backdrop-blur-\[38\.571px\].keyboard-focused\:border-blue-400\/\[\.01\].keyboard-focused\:bg-blue-400\/\[\.09\].keyboard-focused\:backdrop-blur-\[38\.571px\].dark\:hover\:bg-blue-100\/20.dark\:keyboard-focused\:bg-blue-100\/20
+chatgpt.com##.no-drag.cursor-interaction.items-center.select-none.disabled\:cursor-default.aria-disabled\:cursor-default.focus\:outline-hidden.disabled\:opacity-40.aria-disabled\:opacity-40.focus-visible\:ring-2.focus-visible\:ring-ring.focus-visible\:ring-offset-0.whitespace-nowrap.flex.border.gap-0\.75.rounded-lg.border-transparent.bg-transparent.text-text-header-upgrade.not-disabled\:not-aria-disabled\:hover\:bg-background-header-upgrade-hover.focus-visible\:bg-background-header-upgrade-hover.data-\[state\=open\]\:bg-background-header-upgrade-hover.h-8\.5.px-3.py-0.text-sm.leading-5.font-medium.pointer-coarse\:h-10
+chatgpt.com##.no-drag.cursor-interaction.items-center.select-none.disabled\:cursor-default.aria-disabled\:cursor-default.focus\:outline-hidden.disabled\:opacity-40.aria-disabled\:opacity-40.focus-visible\:ring-2.focus-visible\:ring-ring.focus-visible\:ring-offset-0.whitespace-nowrap.flex.border.gap-1.rounded-full.border-button-outline.bg-surface-card.text-button-outline.not-disabled\:not-aria-disabled\:hover\:bg-button-outline-hover.data-\[state\=open\]\:bg-button-outline-hover.not-disabled\:not-aria-disabled\:active\:opacity-80.min-h-9.shrink-0.justify-center.px-4.py-0.text-xs.leading-5.font-medium.pointer-coarse\:min-h-10.w-full
+chatgpt.com##.no-drag.cursor-interaction.items-center.select-none.disabled\:cursor-default.aria-disabled\:cursor-default.focus\:outline-hidden.disabled\:opacity-40.aria-disabled\:opacity-40.focus-visible\:ring-2.focus-visible\:ring-ring.focus-visible\:ring-offset-0.whitespace-nowrap.flex.border.gap-1.rounded-lg.text-\(--color-text-toolbar-action\).not-disabled\:not-aria-disabled\:hover\:bg-primary-ghost-hover.data-\[state\=open\]\:bg-primary-ghost-hover.border-transparent.button-toolbar.py-0.text-sm.leading-\[18px\]
+chatgpt.com##.no-drag.cursor-interaction.items-center.select-none.disabled\:cursor-default.aria-disabled\:cursor-default.focus\:outline-hidden.disabled\:opacity-40.aria-disabled\:opacity-40.focus-visible\:ring-2.focus-visible\:ring-ring.focus-visible\:ring-offset-0.whitespace-nowrap.flex.h-8\.5.gap-0\.75.rounded-lg.border.border-transparent.px-3.py-0.text-sm.leading-5.font-medium.pointer-coarse\:h-10.HeaderOffer-RBCS7_
+chatgpt.com###radix-_r_hu_ > .ButtonInner-lTYECf
+
+! ===== fatalfans.com =====
+fatalfans.com##.fixed.inset-0.bg-elevated\/75
+
+! ===== gemini.google.com =====
+gemini.google.com##.mat-mdc-action-list.mat-mdc-list-base.mdc-list.gds-sidenav-list.mobile-controls-list
+gemini.google.com##g1-dynamic-upsell-button.ng-star-inserted
+
+! ===== grok.com =====
 grok.com##.absolute.inset-0.flex.justify-center.top-0.overflow-hidden.rounded-\[23px\]
 grok.com##.absolute.inset-0.h-full.w-full.rounded-\[23px\]
 grok.com##.fixed.top-0.left-0.right-0.z-50.flex.items-center.justify-between.gap-2.bg-background.border-b.border-toggle-border.px-2.py-2\.5
 grok.com##.upsell-small.relative.mb-2.\@sm\:fixed.\@sm\:bottom-2.\@sm\:end-2.\@sm\:mb-0.px-5.py-4.items-center.w-\[calc\(100\%-16px\)\].bg-black.text-xs.text-white.border.cursor-pointer.border-card.min-\[384px\]\:w-max.min-\[384px\]\:min-w-52.rounded-3xl.group.text-left.flex.gap-4.dark.hover\:scale-\[1\.01\]
-www.tiktok.com##.css-bz993-f59ed85f--ButtonCTAOpenApp.euxhv7r0
-www.tiktok.com##.css-6a6d03-f59ed85f--DivFloatButtonWrapper.e1qyr8e00
-www.tiktok.com##.css-14fb7pe-f59ed85f--DivCtaContentWrapper.etwm1x52
-www.tiktok.com##.css-h475iv-f59ed85f--DivCtaGuideWrapper.etwm1x51
-www.tiktok.com##.css-kkis80-f59ed85f--DivModalContainer.ec9omd60 > .css-8uz2pb-f59ed85f--DivModalMask.ec9omd62
-www.tiktok.com##.css-175qjd2-f59ed85f--DivCenterWrapper.ec9omd68
-www.tiktok.com##.css-kkis80-f59ed85f--DivModalContainer.ec9omd60
-x.com##.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-1ii58gl.r-25kp3t.r-ubg91z.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21
-x.com##div.css-175oi2r.r-1awozwy.r-18u37iz:nth-of-type(4) > .css-175oi2r.r-16y2uox.r-dnmrzs.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 > .css-175oi2r.r-1awozwy.r-18u37iz.r-16y2uox.r-1d7mnkm.r-ubg91z
-x.com##.css-175oi2r.r-dnmrzs.r-1oqcu8e
-www.threads.com##.x1i10hfl.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.x18d9i69.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1q0g3np.x1lku1pv.x1a2a7pz.x6s0dn4.x16qb05n.xi7iut8.x1dm3dyd.x1pv694p.x9f619.x1s688f.xl56j7k.x193iq5w.xf7dkkf.xv54qhq.x1g2r6go.x12w9bfk.x11xpdln.xz4gly6.x87ps6o.xuxw1ft.x19kf12q.x111bo7f.x1vmvj1k.x1yvpm8f.x3tjt7u.x147ezun.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x178xt8z.x1lun4ml.xso031l.xpilrb4.xteu7em.x78zum5.xc9qbxq
+
+! ===== m.facebook.com =====
 m.facebook.com##.m.fixed-container.bottom
-gemini.google.com##g1-dynamic-upsell-button.ng-star-inserted
-gemini.google.com##.mat-mdc-action-list.mat-mdc-list-base.mdc-list.gds-sidenav-list.mobile-controls-list
-m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeS.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextOverrideSmallSizeIcon > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeFill
-m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeS.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextOverrideSmallSizeIcon > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeStroke
-m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeS.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextOverrideSmallSizeIcon > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse
-m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeS.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextOverrideSmallSizeIcon
+m.facebook.com##div.m.fixed-container:nth-of-type(2) > div.m:nth-of-type(1) > div.m:nth-of-type(4)
+
+! ===== m.youtube.com =====
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextIconOnlyDefault > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse
 m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextIconOnlyDefault > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeFill
 m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextIconOnlyDefault > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeStroke
-m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextIconOnlyDefault > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeS.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextOverrideSmallSizeIcon
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeS.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextOverrideSmallSizeIcon > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeS.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextOverrideSmallSizeIcon > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeFill
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeS.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextOverrideSmallSizeIcon > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeStroke
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+
+! ===== music.youtube.com =====
+music.youtube.com##.app-install-link.app-bar-button.style-scope.ytmusic-nav-bar
+music.youtube.com##div.style-scope.ytmusic-guide-renderer:nth-of-type(2) > ytmusic-guide-section-renderer.style-scope.ytmusic-guide-renderer:nth-of-type(1) > .scroller.scroller-on-hover.style-scope.ytmusic-guide-section-renderer > ytmusic-guide-entry-renderer.style-scope.ytmusic-guide-section-renderer:nth-of-type(4) > tp-yt-paper-item.style-scope.ytmusic-guide-entry-renderer
+
+! ===== open.spotify.com =====
+open.spotify.com##.DeIPd86IX1Q3uT9104WT.active
+open.spotify.com##.e-10750-overflow-wrap-anywhere.e-10750-button-primary__inner.encore-inverted-light-set.e-10750-legacy-button--small
+open.spotify.com##a.DeIPd86IX1Q3uT9104WT:nth-of-type(4)
+open.spotify.com##a.DeIPd86IX1Q3uT9104WT:nth-of-type(4) > .e-10750-text.encore-text-marginal
+
+! ===== www.reddit.com =====
+www.reddit.com###configured-xpromo-mweb3x_mid_funnel_blocking_v2_ml_30s
+www.reddit.com###configured-xpromo-mweb3x_mid_funnel_blocking_v2_ml_30s > .bg-transparent
+www.reddit.com###open-app-header-cta
+
+! ===== www.threads.com =====
+www.threads.com##.x1i10hfl.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.x18d9i69.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1q0g3np.x1lku1pv.x1a2a7pz.x6s0dn4.x16qb05n.xi7iut8.x1dm3dyd.x1pv694p.x9f619.x1s688f.x90ne7k.xl56j7k.x193iq5w.xf7dkkf.xv54qhq.x1g2r6go.x12w9bfk.x11xpdln.xz4gly6.x87ps6o.xuxw1ft.x19kf12q.x111bo7f.x1vmvj1k.x1yvpm8f.x3tjt7u.x147ezun.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x178xt8z.x1lun4ml.xso031l.xpilrb4.xteu7em.x78zum5
+www.threads.com##.x1i10hfl.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.x18d9i69.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1q0g3np.x1lku1pv.x1a2a7pz.x6s0dn4.x16qb05n.xi7iut8.x1dm3dyd.x1pv694p.x9f619.x1s688f.x90ne7k.xl56j7k.x193iq5w.xf7dkkf.xv54qhq.x1g2r6go.x12w9bfk.x11xpdln.xz4gly6.x87ps6o.xuxw1ft.x19kf12q.x111bo7f.x1vmvj1k.x1yvpm8f.x3tjt7u.x147ezun.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x178xt8z.x1lun4ml.xso031l.xpilrb4.xteu7em.x78zum5.xh8yej3
+www.threads.com##.x1i10hfl.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.x18d9i69.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1q0g3np.x1lku1pv.x1a2a7pz.x6s0dn4.x16qb05n.xi7iut8.x1dm3dyd.x1pv694p.x9f619.x1s688f.xl56j7k.x193iq5w.xf7dkkf.xv54qhq.x1g2r6go.x12w9bfk.x11xpdln.xz4gly6.x87ps6o.xuxw1ft.x19kf12q.x111bo7f.x1vmvj1k.x1yvpm8f.x3tjt7u.x147ezun.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x178xt8z.x1lun4ml.xso031l.xpilrb4.xteu7em.x78zum5.xc9qbxq
+www.threads.com##.xtqikln.xrvj5dj.x1o61qjw.xsag5q8.x1g0dm76.xpdmqnj > div:nth-of-type(2)
+
+! ===== www.tiktok.com =====
+www.tiktok.com##.css-14fb7pe-f59ed85f--DivCtaContentWrapper.etwm1x52
+www.tiktok.com##.css-175qjd2-f59ed85f--DivCenterWrapper.e1mtsrs58
+www.tiktok.com##.css-175qjd2-f59ed85f--DivCenterWrapper.ec9omd68
+www.tiktok.com##.css-17hbzfq-7937d88b--DivFeedNavigationContainer.e11gdzec0
+www.tiktok.com##.css-6a6d03-f59ed85f--DivFloatButtonWrapper.e1qyr8e00
+www.tiktok.com##.css-8a7p9z
+www.tiktok.com##.css-bz993-f59ed85f--ButtonCTAOpenApp.essy1hm0
+www.tiktok.com##.css-bz993-f59ed85f--ButtonCTAOpenApp.euxhv7r0
+www.tiktok.com##.css-h475iv-f59ed85f--DivCtaGuideWrapper.etwm1x51
+www.tiktok.com##.css-kkis80-f59ed85f--DivModalContainer.e1mtsrs50
+www.tiktok.com##.css-kkis80-f59ed85f--DivModalContainer.e1mtsrs50 > .css-8uz2pb-f59ed85f--DivModalMask.e1mtsrs52
+www.tiktok.com##.css-kkis80-f59ed85f--DivModalContainer.ec9omd60
+www.tiktok.com##.css-kkis80-f59ed85f--DivModalContainer.ec9omd60 > .css-8uz2pb-f59ed85f--DivModalMask.ec9omd62
+
+! ===== www.youtube.com =====
 www.youtube.com###voice-search-button > .style-scope.ytd-masthead > yt-button-shape > .ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextIconOnlyDefault.ytSpecButtonShapeNextEnableBackdropFilterExperiment > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeFill
 www.youtube.com###voice-search-button > .style-scope.ytd-masthead > yt-button-shape > .ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextIconOnlyDefault.ytSpecButtonShapeNextEnableBackdropFilterExperiment > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeStroke
-m.facebook.com##div.m.fixed-container:nth-of-type(2) > div.m:nth-of-type(1) > div.m:nth-of-type(4)
-br.pinterest.com##.G0yGFD.ap8aAM.Q3hcOU.j0pMjI.E6J5D_.CNPSpi.O0u6sV
-chat.deepseek.com##.ds-button.ds-button--outlinedNeutral.ds-button--outlined.ds-button--capsule.ds-button--m.ds-button--icon-relative-m.ds-button--min-width.ad8d4bfc > .ds-button__background
-chat.deepseek.com##.ds-button.ds-button--outlinedNeutral.ds-button--outlined.ds-button--capsule.ds-button--m.ds-button--icon-relative-m.ds-button--min-width.ad8d4bfc
 
-chat.qwen.ai##.qwen-auth-share-logo
-chat.qwen.ai##.share-logo-content
-character.ai##.pl-2.md\:pl-0.mt-2.space-y-4 > div:nth-of-type(1)
-character.ai##.pl-2.md\:pl-0.mt-2.space-y-4 > div:nth-of-type(3)
-character.ai##.pl-2.md\:pl-0.mt-2.space-y-4 > div:nth-of-type(4)
-character.ai##.pl-2.md\:pl-0.mt-2.space-y-4 > div:nth-of-type(10)
-character.ai##.size-full.min-h-\[90px\].text-\[16px\].flex.items-center.cursor-pointer.select-none.px-3.\@xl\:px-5.\@3xl\:px-8.leading-\[1\.1\].transition-colors.duration-300.bg-\[\#0000FF\].text-white.justify-between.h-\[90px\].\@xl\:text-\[18px\].\@3xl\:text-\[20px\].gap-3.\@3xl\:gap-6
-character.ai##.\@container.overflow-hidden.size-full.flex.justify-center.items-center.max-w-\[970px\].mx-auto
-character.ai##.fixed.left-1\/2.-translate-x-1\/2.w-full.flex.justify-center.items-center.bg-\[var\(--G50\)\].border-b.border-gray-200.\[box-shadow\:0_4px_6px_-1px_rgb\(0\,0\,0\,0\.1\)\,0_2px_4px_-2px_rgb\(0\,0\,0\,0\.1\)\].transition-transform.duration-1000.ease-\[cubic-bezier\(0\.4\,0\,0\.2\,1\)\].top-0.sm\:rounded-bl-\[5px\].sm\:rounded-br-\[5px\].z-40
-chat.qwen.ai##.satisfaction-rating.satisfaction-rating-mobile
+! ===== x.com =====
+x.com##.css-175oi2r.r-dnmrzs.r-1oqcu8e
+x.com##.css-175oi2r.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-1ii58gl.r-25kp3t.r-ubg91z.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21
+x.com##.css-g5y9jx.r-e65kyq
+x.com##.css-g5y9jx.r-sdzlij.r-1phboty.r-rs99b7.r-lrvibr.r-1ii58gl.r-25kp3t.r-ubg91z.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21
+x.com##.group.x-button.transition-colors.h-12.text-headline2.\[\&_svg\:not\(\[class\*\=\'size-\'\]\)\]\:size-6.bg-btn-primary.text-inverted.hover\:bg-btn-primary-hover.aria-expanded\:bg-btn-primary-hover.active\:bg-btn-primary-pressed.px-6.max-w-full.w-full
+x.com##.max-w-full.text-headline1.font-extrabold.text-primary.text-center.motion-safe\:animate-enter-blur-rise.motion-reduce\:animate-enter-fade.tracking-\[-0\.01em\].\[--enter-delay\:0\.18s\] > font:nth-of-type(1) > font
+x.com##.motion-safe\:animate-enter-fade-rise.motion-reduce\:animate-enter-fade.pb-\[calc\(max\(env\(safe-area-inset-bottom\,0px\)\,34px\)\)\].\[--enter-delay\:0\.32s\]
+x.com##.motion-safe\:animate-enter-unfurl-y.motion-reduce\:animate-enter-fade.absolute.inset-x-0.top-\[-72px\].bottom-0.-z-10.origin-bottom.bg-linear-to-t.from-\(--x-bg-primary\).from-52\%.via-\(--x-bg-primary\)\/45.via-84\%.to-\(--x-bg-primary\)\/0
+x.com##.ms-auto.flex.min-w-0.items-center.justify-end.empty\:hidden > .ms-auto.flex.shrink-0.items-center.gap-1 > .group.x-button.transition-colors.h-8.text-subtext1.\[\&_svg\:not\(\[class\*\=\'size-\'\]\)\]\:size-4.bg-btn-primary.text-inverted.hover\:bg-btn-primary-hover.aria-expanded\:bg-btn-primary-hover.active\:bg-btn-primary-pressed.px-4.max-w-full
+x.com##div.css-175oi2r.r-1awozwy.r-18u37iz:nth-of-type(4) > .css-175oi2r.r-16y2uox.r-dnmrzs.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 > .css-175oi2r.r-1awozwy.r-18u37iz.r-16y2uox.r-1d7mnkm.r-ubg91z
